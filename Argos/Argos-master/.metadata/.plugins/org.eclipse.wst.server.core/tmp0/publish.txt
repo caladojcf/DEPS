@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Wed Nov 28 21:26:11 GMT-03:00 2018
+org.eclipse.jst.jee.server\:Argos=C\:\\Users\\Calado\\Documents\\Argos-Tomcat\\apache-tomcat-8.5.34\\webapps\\Argos

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Calado\Documents\Argos\Argos-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4075003116.index
+148568714.index
+2696275311.index
+721771829.index
+1270211956.index
+2825413699.index
+967196324.index

@@ -1,0 +1,95 @@
+2018-11-27 18:29:04,999 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-27 18:36:21,287 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ifpb.argos:Argos:1.0.0 @ C:\Users\Calado\Documents\Argos\Argos-master\Argos\pom.xml.
+2018-11-27 18:36:27,339 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 18:36:27,410 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-27 18:36:27,417 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 18:36:27,452 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-27 18:36:30,060 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ifpb.argos:Argos:1.0.0 @ C:\Users\Calado\Documents\Argos\Argos-master\Argos\pom.xml.
+2018-11-27 18:36:49,867 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 18:36:49,871 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-27 18:36:49,874 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 18:36:49,877 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-27 18:37:23,414 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 18:37:23,417 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-27 18:37:23,420 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 18:37:23,424 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-27 18:38:03,473 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-11-27 18:38:04,678 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ifpb.argos:Argos:1.0.0 @ C:\Users\Calado\Documents\Argos\Argos-master\Argos\pom.xml.
+2018-11-27 18:38:07,052 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Argos/src/main/java
+2018-11-27 18:38:07,054 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Argos/src/test/java
+2018-11-27 18:38:11,448 [Worker-20: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Argos
+2018-11-27 18:38:11,479 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2018-11-27 18:38:24,130 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 18:38:24,174 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-27 18:38:24,180 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 18:38:24,243 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-27 18:38:24,244 [Worker-15: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Argos
+2018-11-27 18:38:24,267 [Worker-15: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Argos
+2018-11-27 18:38:24,289 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2018-11-27 18:38:24,372 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 19:15:34,192 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 19:15:34,195 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-27 19:15:34,198 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 19:15:34,201 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-27 19:15:54,853 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-11-27 19:15:56,007 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ifpb.argos:Argos:1.0.0 @ C:\Users\Calado\Documents\Argos\Argos-master\Argos\pom.xml.
+2018-11-27 19:15:58,254 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Argos/src/main/java
+2018-11-27 19:15:58,256 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Argos/src/test/java
+2018-11-27 19:16:00,397 [Worker-25: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Argos
+2018-11-27 19:16:00,463 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2018-11-27 19:16:03,849 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 19:16:03,865 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-27 19:16:03,874 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 19:16:03,877 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-27 19:16:03,878 [Worker-27: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Argos
+2018-11-27 19:16:03,878 [Worker-27: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Argos
+2018-11-27 19:16:03,895 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 19:18:24,216 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 19:18:24,218 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-27 19:18:24,221 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-27 19:18:24,223 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 06:57:12,375 [Worker-80: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 06:57:12,375 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 06:57:12,375 [Worker-80: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 06:57:12,390 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 06:59:12,763 [Worker-85: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 06:59:12,778 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 06:59:12,778 [Worker-85: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 06:59:12,778 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 07:03:55,264 [Worker-81: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:03:55,264 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 07:03:55,275 [Worker-81: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:03:55,275 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 07:04:26,530 [Worker-82: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:04:26,540 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 07:04:26,542 [Worker-82: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:04:26,542 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 07:10:30,699 [Worker-89: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:10:30,699 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 07:10:30,699 [Worker-89: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:10:30,699 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 07:14:17,392 [Worker-87: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:14:17,407 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 07:14:17,407 [Worker-87: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:14:17,407 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 07:16:51,930 [Worker-80: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:16:51,930 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 07:16:51,930 [Worker-80: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:16:51,930 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 07:25:14,443 [Worker-90: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:25:14,443 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 07:25:14,459 [Worker-90: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:25:14,459 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 07:35:59,876 [Worker-93: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:35:59,892 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 07:35:59,892 [Worker-93: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:35:59,892 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 07:37:20,716 [Worker-100: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:37:20,716 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 07:37:20,716 [Worker-100: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 07:37:20,716 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
+2018-11-28 21:22:55,667 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-28 21:23:23,503 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 21:23:23,513 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\main\resources
+2018-11-28 21:23:23,518 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-28 21:23:23,864 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Calado\Documents\Argos\Argos-master\Argos\src\test\resources
